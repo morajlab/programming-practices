@@ -1,0 +1,3 @@
+[submodule "packages/c"]
+	path = packages/c
+	url = https://github.com/morteza-jamali/c-practices.git
